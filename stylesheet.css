@@ -1,0 +1,26 @@
+s
+body {
+  background-color: white; }
+
+ul li {
+  display: inline-block;
+  padding-left: 24px; }
+
+.select {
+  padding-left: 30px;
+  padding-right: 30px; }
+  .select .header-selections {
+    text-align: center;
+    background-color: #081624;
+    box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.24); }
+    .select .header-selections a {
+      color: #fff;
+      padding-left: 24px;
+      font-size: 20px; }
+  .select .selections {
+    height: 240%;
+    width: 100%;
+    display: inline-block;
+    border: 4px; }
+
+/*# sourceMappingURL=stylesheet.css.map */

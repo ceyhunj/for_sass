@@ -1,0 +1,56 @@
+
+$fs20:20px;
+$p24:24px;
+$type-c: #fff ;
+$bg-color: white ;
+$font-type:'roboto' sans-serif ;
+
+
+
+s
+
+
+
+body{
+	background-color: $bg-color;
+}
+
+
+ ul{
+ 	li{
+ 		display:inline-block;
+ 		padding-left:$p24;
+ 	}
+ }
+
+
+
+.select{
+	padding-left:30px;
+	padding-right:30px;
+
+	.header-selections{ 
+    text-align: center;
+    background-color:#081624;
+   	box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.24);
+
+    	a{
+	    	color: $type-c;
+	    	padding-left:$p24;
+	    	font-size:$fs20;
+    	}		
+	}
+
+
+
+	.selections{
+		height: 240%;
+		width: 100%;
+		display:inline-block;
+		border:4px;
+	
+	}
+
+}
+
+	
