@@ -4,6 +4,7 @@ $p24:24px;
 $type-c: #fff ;
 $bg-color: white ;
 $font-type:'roboto' sans-serif ;
+$p460:460px;
 
 
 
@@ -53,4 +54,7 @@ body{
 
 }
 
+	.login{
+		padding-left:$p460;
+	}
 	

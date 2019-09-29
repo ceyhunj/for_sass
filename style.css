@@ -22,3 +22,6 @@ ul li {
     width: 100%;
     display: inline-block;
     border: 4px; }
+
+.login {
+  padding-left: 460px; }
