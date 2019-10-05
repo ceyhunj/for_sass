@@ -6,9 +6,17 @@ ul li {
   display: inline-block;
   padding-left: 24px; }
 
+.social-icon {
+  position: relative;
+  z-index: 9999;
+  bottom: 1000px; }
+
 .select {
   padding-left: 30px;
-  padding-right: 30px; }
+  padding-right: 30px;
+  position: relative;
+  z-index: 9999;
+  bottom: 1000px; }
   .select .header-selections {
     text-align: center;
     background-color: #081624;
