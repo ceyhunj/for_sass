@@ -33,3 +33,21 @@ ul li {
 
 .login {
   padding-left: 460px; }
+
+.header-text {
+  text-align: center;
+  padding-top: 120px;
+  color: #fff; }
+  .header-text p {
+    color: #131515 !important;
+    font-size: 24px; }
+  .header-text span {
+    font-size: 100px; }
+  .header-text button {
+    margin-top: 50px;
+    height: initial;
+    font-size: 28px;
+    padding: 0.8rem 2.4rem;
+    font-style: italic;
+    border-radius: 0;
+    box-shadow: 17px 9px 5px 0px #b01ba5; }

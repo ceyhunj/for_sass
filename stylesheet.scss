@@ -5,6 +5,7 @@ $type-c: #fff ;
 $bg-color: white ;
 $font-type:'roboto' sans-serif ;
 $p460:460px;
+$p-color:#131515;
 
 
 
@@ -65,4 +66,30 @@ body{
 	.login{
 		padding-left:$p460;
 	}
-	
+
+.header-text{
+	text-align:center;
+	padding-top:120px;
+	color: $type-c;
+
+		p{ 		
+			color:$p-color !important;
+			font-size:$p24;	
+		}
+
+		span{
+			font-size:100px;
+		}			
+
+		button{
+			margin-top: 50px;
+    		height: initial;
+    		font-size: 28px;
+    		padding: 0.8rem 2.4rem;
+    		font-style: italic;
+    		border-radius:0;
+    		box-shadow: 17px 9px 5px 0px rgba(176,27,165,1);
+    		
+
+		}			
+}
