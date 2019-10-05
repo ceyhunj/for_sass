@@ -24,11 +24,19 @@ body{
  	}
  }
 
-
+.social-icon{
+	position:relative;
+	z-index:9999;
+	bottom:1000px;
+}
 
 .select{
 	padding-left:30px;
 	padding-right:30px;
+	position:relative;
+	z-index:9999;
+	bottom:1000px;
+
 
 	.header-selections{ 
     text-align: center;
