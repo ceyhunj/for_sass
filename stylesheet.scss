@@ -4,12 +4,8 @@ $p24:24px;
 $type-c: #fff ;
 $bg-color: white ;
 $font-type:'roboto' sans-serif ;
-$p460:460px;
 $p-color:#131515;
-
-
-
-s
+$purp-c:#b01ba5;
 
 
 
@@ -28,7 +24,7 @@ body{
 .social-icon{
 	position:relative;
 	z-index:9999;
-	bottom:1000px;
+	bottom:300px;
 }
 
 .select{
@@ -36,7 +32,7 @@ body{
 	padding-right:30px;
 	position:relative;
 	z-index:9999;
-	bottom:1000px;
+	bottom:300px;
 
 
 	.header-selections{ 
@@ -64,7 +60,7 @@ body{
 }
 
 	.login{
-		padding-left:$p460;
+		padding-left:250px;
 	}
 
 .header-text{
@@ -89,7 +85,19 @@ body{
     		font-style: italic;
     		border-radius:0;
     		box-shadow: 17px 9px 5px 0px rgba(176,27,165,1);
-    		
+
 
 		}			
+}
+
+.carousel{
+	border: solid;
+    border-width: 0 0 2px 0;
+    color: #b01ba5;
+}
+
+.carousel-caption{
+	right:5%;
+	left:5%;
+
 }
