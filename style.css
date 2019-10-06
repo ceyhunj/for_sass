@@ -1,4 +1,3 @@
-s
 body {
   background-color: white; }
 
@@ -9,14 +8,14 @@ ul li {
 .social-icon {
   position: relative;
   z-index: 9999;
-  bottom: 1000px; }
+  bottom: 300px; }
 
 .select {
   padding-left: 30px;
   padding-right: 30px;
   position: relative;
   z-index: 9999;
-  bottom: 1000px; }
+  bottom: 300px; }
   .select .header-selections {
     text-align: center;
     background-color: #081624;
@@ -32,7 +31,7 @@ ul li {
     border: 4px; }
 
 .login {
-  padding-left: 460px; }
+  padding-left: 250px; }
 
 .header-text {
   text-align: center;
@@ -51,3 +50,21 @@ ul li {
     font-style: italic;
     border-radius: 0;
     box-shadow: 17px 9px 5px 0px #b01ba5; }
+
+.carousel {
+  border: solid;
+  border-width: 0 0 2px 0;
+  color: #b01ba5; }
+
+.carousel-caption {
+  right: 5%;
+  left: 5%; }
+
+.news-bg {
+  background-color: #0c062e; }
+
+.news {
+  padding-top: 50px; }
+  .news h3 {
+    padding-top: 20px;
+    padding-bottom: 20px; }
