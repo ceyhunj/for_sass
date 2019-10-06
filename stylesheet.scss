@@ -7,7 +7,9 @@ $font-type:'roboto' sans-serif ;
 $p-color:#131515;
 $purp-c:#b01ba5;
 
-
+@mixin text-styles{
+	
+}
 
 body{
 	background-color: $bg-color;
@@ -101,3 +103,24 @@ body{
 	left:5%;
 
 }
+
+
+.news-bg{
+	background-color:#0c062e;
+}
+
+.news{
+	padding-top:50px;
+
+
+
+
+	h3{
+		padding-top:20px;
+		padding-bottom:20px;
+	}
+}
+
+
+
+

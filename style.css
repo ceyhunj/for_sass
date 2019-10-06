@@ -59,3 +59,12 @@ ul li {
 .carousel-caption {
   right: 5%;
   left: 5%; }
+
+.news-bg {
+  background-color: #0c062e; }
+
+.news {
+  padding-top: 50px; }
+  .news h3 {
+    padding-top: 20px;
+    padding-bottom: 20px; }
